@@ -2,7 +2,7 @@
 
     var obj2 = {};
 
-    obj2.names = ["Alex", "Jhon", "Mark", "joey"];
+    obj2.names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 
     obj2.sayHello = function () {
 
